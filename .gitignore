@@ -3,13 +3,13 @@
 # dependencies
 /backend/node_modules
 /frontend/node_modules
-/aircnc/node_modules
+/mobile/node_modules
 /backend/.pnp
 /frontend/.pnp
-/aircnc/.pnp
+/mobile/.pnp
 /backend/.pnp.js
 /frontend/.pnp.js
-/aircnc/.pnp.js
+/mobile/.pnp.js
 
 # testing
 /coverage
